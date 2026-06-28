@@ -5,6 +5,7 @@
       "id": "microg",
       "name": "microG",
       "description": "Modded GooglePlay service to enable google application to work.",
+      "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/microg_settings.png",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/MicroG.apk",
       "packageName": "app.revanced.android.gms"
     },
@@ -12,6 +13,7 @@
       "id": "youtube-premium",
       "name": "YouTube Premium",
       "description": "Edited version of Youtube that have premium features unlocked - Requires MicroG to be installed.",
+      "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/youtube_revanced.png",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/YouTube.v20.32.36.apk",
       "packageName": "app.revanced.android.youtube",
       "requires": [
@@ -22,13 +24,15 @@
       "id": "smarttube",
       "name": "SmartTube",
       "description": "Another youtube alternative.",
+      "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/smarttube.png",
       "apkUrl": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
-      "packageName": "org.smarttube.stable"
+      "packageName": "com.teamsmart.videomanager.tv"
     },
     {
       "id": "aurora-store",
       "name": "Aurora Store",
       "description": "Google store alternative to download any application.",
+      "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/aurora_store.png",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Aroura.store.apk",
       "packageName": "com.aurora.store"
     },
@@ -36,6 +40,7 @@
       "id": "gboard",
       "name": "Google Keyboard",
       "description": "Alternative keyboard.",
+      "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/gboard.png",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Google.Keyboard.apk",
       "packageName": "com.google.android.inputmethod.latin"
     },
@@ -43,6 +48,7 @@
       "id": "ayah",
       "name": "Ayah",
       "description": "Quran application.",
+      "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/ayah.png",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Ayah.apk",
       "packageName": "com.ayah"
     },
@@ -50,6 +56,7 @@
       "id": "huawei-gallery",
       "name": "Huawei Gallery",
       "description": "Another Google store alternative.",
+      "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/appgallery.png",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Huwai.gallery.apk",
       "packageName": "com.huawei.appmarket"
     },
@@ -57,6 +64,7 @@
       "id": "yousef-wallpaper",
       "name": "Yousef Wallpaper",
       "description": "A wallpaper changer that can make you make any video into wallpaper.",
+      "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/yousef_wallpaper.png",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Yousef.Wallpaper_1.0.apk",
       "packageName": "com.aistudio.videowallpaper.tabwp"
     }
