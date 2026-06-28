@@ -6,57 +6,59 @@
       "name": "microG",
       "description": "Modded GooglePlay service to enable google application to work.",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/MicroG.apk",
-      "packageName": ""
+      "packageName": "app.revanced.android.gms"
     },
     {
       "id": "youtube-premium",
       "name": "YouTube Premium",
       "description": "Edited version of Youtube that have premium features unlocked - Requires MicroG to be installed.",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/YouTube.v20.32.36.apk",
-      "packageName": "",
-      "requires": ["microg"]
+      "packageName": "app.revanced.android.youtube",
+      "requires": [
+        "microg"
+      ]
     },
     {
       "id": "smarttube",
       "name": "SmartTube",
       "description": "Another youtube alternative.",
       "apkUrl": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
-      "packageName": ""
+      "packageName": "org.smarttube.stable"
     },
     {
       "id": "aurora-store",
       "name": "Aurora Store",
       "description": "Google store alternative to download any application.",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Aroura.store.apk",
-      "packageName": ""
+      "packageName": "com.aurora.store"
     },
     {
       "id": "gboard",
       "name": "Google Keyboard",
       "description": "Alternative keyboard.",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Google.Keyboard.apk",
-      "packageName": ""
+      "packageName": "com.google.android.inputmethod.latin"
     },
     {
       "id": "ayah",
       "name": "Ayah",
       "description": "Quran application.",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Ayah.apk",
-      "packageName": ""
+      "packageName": "com.ayah"
     },
     {
       "id": "huawei-gallery",
       "name": "Huawei Gallery",
       "description": "Another Google store alternative.",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Huwai.gallery.apk",
-      "packageName": ""
+      "packageName": "com.huawei.appmarket"
     },
     {
       "id": "yousef-wallpaper",
       "name": "Yousef Wallpaper",
       "description": "A wallpaper changer that can make you make any video into wallpaper.",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Yousef.Wallpaper_1.0.apk",
-      "packageName": ""
+      "packageName": "com.aistudio.videowallpaper.tabwp"
     }
   ]
 }
