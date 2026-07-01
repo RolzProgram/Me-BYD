@@ -67,6 +67,14 @@
       "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/yousef_wallpaper.png",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/Yousef.Wallpaper_1.0.apk",
       "packageName": "com.aistudio.videowallpaper.tabwp"
+    },
+    {
+      "id": "speedcn",
+      "name": "SpeedCN",
+      "description": "Chinese VPN.",
+      "iconUrl": "",
+      "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/SpeedCN.VPN.apk",
+      "packageName": ""
     }
   ]
 }
