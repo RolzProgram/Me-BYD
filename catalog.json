@@ -72,7 +72,7 @@
       "id": "speedcn",
       "name": "SpeedCN",
       "description": "Chinese VPN.",
-      "iconUrl": "",
+      "iconUrl": "https://raw.githubusercontent.com/RolzProgram/Me-BYD/main/icons/speedcn.png",
       "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/Me%26BYD/SpeedCN.VPN.apk",
       "packageName": ""
     }
