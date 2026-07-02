@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/app-v1.0/MeBYD.apk",
-  "notes": "Initial release"
-}
+     "versionCode": 2,
+     "versionName": "1.1",
+     "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/app-v1.1/MeBYD.apk",
+     "notes": "New grid layout, settings page"
+   }
