@@ -1,6 +1,6 @@
 {
-     "versionCode": 17,
-     "versionName": "1.17",
+     "versionCode": 19,
+     "versionName": "1.19",
      "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/app-v1.7/MeBYD.apk",
      "notes": "Network tab, auto-APN, log save"
    }
