@@ -1,6 +1,6 @@
 {
      "versionCode": 2,
-     "versionName": "1.1",
-     "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/app-v1.1/MeBYD.apk",
-     "notes": "New grid layout, settings page"
+     "versionName": "1.17",
+     "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/app-v1.7/MeBYD.apk",
+     "notes": "Network tab, auto-APN, log save"
    }
