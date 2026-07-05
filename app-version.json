@@ -2,5 +2,5 @@
      "versionCode": 31,
      "versionName": "1.31",
      "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/app-v1.31/1.31.apk",
-     "notes": "Network tab, auto-APN, log save"
+     "notes": "HUD fixed, added app transfer, still testing"
    }
