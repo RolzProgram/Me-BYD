@@ -1,6 +1,6 @@
 {
-     "versionCode": 40,
-     "versionName": "1.40",
-     "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/app-v1.40/1.40.apk",
-     "notes": "Added android and sdk indecator"
+     "versionCode": 41,
+     "versionName": "1.41",
+     "apkUrl": "https://github.com/RolzProgram/Me-BYD/releases/download/app-v1.41/1.41.apk",
+     "notes": "Added support for other byd cars"
    }
